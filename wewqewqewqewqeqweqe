@@ -1,0 +1,2 @@
+print("✅ - Pass, ⛔ - Fail, ⏺️ - Unknown")
+warn("⛔ gay")
